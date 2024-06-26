@@ -1,0 +1,2 @@
+export const LOGIN = "LOGIN";
+export const FATCH_COMPANY_PROFILE = "FATCH_COMPANY_PROFILE"

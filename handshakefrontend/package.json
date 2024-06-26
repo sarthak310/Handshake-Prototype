@@ -1,0 +1,58 @@
+{
+  "name": "handshakefrontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.1",
+    "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.4.1",
+    "custom-error": "^0.2.1",
+    "enzyme": "^3.11.0",
+    "jest": "^24.9.0",
+    "pdf-viewer-reactjs": "^2.0.2",
+    "qs": "^6.9.1",
+    "react": "^16.12.0",
+    "react-cookie": "^3.1.2",
+    "react-cookies": "^0.1.0",
+    "react-dom": "^16.12.0",
+    "react-file-viewer": "^1.2.1",
+    "react-redux": "^7.2.0",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "3.4.0",
+    "redux": "^4.0.5",
+    "semantic-ui-react": "latest",
+    "universal-cookie": "^4.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
